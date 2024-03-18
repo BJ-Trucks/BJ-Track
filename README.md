@@ -27,17 +27,17 @@ Author:
 ```
 ### ⇨  Install Script  Termux
 ```python
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install python3 -y`
-* `pkg install git -y`
-* `git clone https://github.com/BJ-Trucks/BJ-Track.git`
-* `cd $HOME`
-* `ls`
-* `cd BJ-Track`
-* `ls`
-`pip3 install -r requirements.txt`
-* `python3 BJ_Track.py`
+apt-get update -y
+apt-get upgrade -y
+pkg install python3 -y
+pkg install git -y
+git clone https://github.com/BJ-Trucks/BJ-Track.git
+cd $HOME
+ls
+cd BJ-Track
+ls
+pip3 install -r requirements.txt
+python3 BJ_Track.py
 ```
 ** Now you need internet connection to continue further process **
 
